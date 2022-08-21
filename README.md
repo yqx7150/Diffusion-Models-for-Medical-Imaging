@@ -25,5 +25,5 @@ Diffusion Models for Medical Imaging
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2205.03883)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/WKGM)   [<font size=5>**[ISMRM_2022_slideliu6]**</font>](https://github.com/yqx7150/WKGM/blob/main/ISMRM_2022_slideliu6.pdf)  [<font size=5>**[ISMRM_2022_liu]**</font>](https://submissions.mirasmart.com/ISMRM2022/Itinerary/ConferenceMatrixEventDetail.aspx?ses=WE-04)
 
 ## Learning from Large to Small Dataset 
-  * Universal Generative Modeling for Calibration-free Parallel MR Imaging  
-[<font size=5>**[Paper]**</font>]([https://biomedicalimaging.org/2022/](https://arxiv.org/abs/2205.03883))   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/UGM-PI)   [<font size=5>**[Poster]**</font>](https://github.com/yqx7150/UGM-PI/blob/main/paper%20%23160-Poster.pdf)
+  * One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2208.07181)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HKGM)   [<font size=5>**[Poster]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)
