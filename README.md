@@ -2,7 +2,7 @@
 Diffusion Models for Medical Imaging
 
 ## Learning from DAE to DSM
- <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-DAE-to-DSM.png" width = "800" height = "600">  </div>
+ <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-DAE-to-DSM.png" width = "1000" height = "600">  </div>
 
 
   * Highly Undersampled Magnetic Resonance Imaging Reconstruction using Autoencoding Priors  
