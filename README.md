@@ -26,4 +26,4 @@ Diffusion Models for Medical Imaging
 
 ## Learning from Large to Small Dataset 
   * One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction  
-[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2208.07181)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HKGM)   [<font size=5>**[Poster]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2208.07181)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HKGM)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)
