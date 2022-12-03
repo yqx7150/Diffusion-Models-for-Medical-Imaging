@@ -31,6 +31,9 @@ Diffusion Models for Medical Imaging
   * WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2205.03883)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/WKGM)   [<font size=5>**[ISMRM_2022_slideliu6]**</font>](https://github.com/yqx7150/WKGM/blob/main/ISMRM_2022_slideliu6.pdf)  [<font size=5>**[ISMRM_2022_liu]**</font>](https://submissions.mirasmart.com/ISMRM2022/Itinerary/ConferenceMatrixEventDetail.aspx?ses=WE-04)
 
+  * Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/2211/2211.13926.pdf)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GMSD)      
+
 ## Learning from Large to Small Dataset 
  <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-Large-to-Small-Dataset.png" width = "800" height = "500">  </div>
  
