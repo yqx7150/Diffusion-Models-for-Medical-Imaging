@@ -39,3 +39,6 @@ Diffusion Models for Medical Imaging
  
   * One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2208.07181)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HKGM)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)
+
+  * Generative Modeling in Structural-Hankel Domain for Color Image Inpainting  
+[<font size=5>**[Paper]**</font>](http://arxiv.org/abs/2211.13857)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SHGM)     
