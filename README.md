@@ -32,7 +32,7 @@ Diffusion Models for Medical Imaging
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2205.03883)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/WKGM)   [<font size=5>**[ISMRM_2022_slideliu6]**</font>](https://github.com/yqx7150/WKGM/blob/main/ISMRM_2022_slideliu6.pdf)  [<font size=5>**[ISMRM_2022_liu]**</font>](https://submissions.mirasmart.com/ISMRM2022/Itinerary/ConferenceMatrixEventDetail.aspx?ses=WE-04)
 
 * Low-rank Tensor Assisted K-space Generative Model for Parallel Imaging Reconstruction  
-[<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/2212/2212.05503.pdf)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/LR-KGM)
+[<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/2212/2212.05503.pdf)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/LR-KGM)     
 
   * Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/2211/2211.13926.pdf)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GMSD)      
