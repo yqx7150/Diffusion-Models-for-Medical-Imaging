@@ -33,8 +33,8 @@ Diffusion Models for Medical Imaging
 
 * Low-rank Tensor Assisted K-space Generative Model for Parallel Imaging Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/2212/2212.05503.pdf)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/LR-KGM)     
-
-  * Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction  
+        
+* Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction      
 [<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/2211/2211.13926.pdf)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GMSD)      
 
 ## Learning from Large to Small Dataset 
