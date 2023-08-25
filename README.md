@@ -19,7 +19,7 @@ Diffusion Models for Medical Imaging
   * Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/9703672)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EASEL)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HGGDP/tree/master/Slide)
 
-## Learning from Image Domain to K-space     
+## Learning from Image Domain to Projection Domain     
  <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-Image-Domain-to-K-space.png" width = "800" height = "500">  </div>
  
   * Homotopic Gradients of Generative Density Priors for MR Image Reconstruction  
