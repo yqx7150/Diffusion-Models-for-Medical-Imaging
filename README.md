@@ -52,5 +52,11 @@ Diffusion Models for Medical Imaging
   * One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10158730)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HKGM)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)
 
+  * One Sample Diffusion Model in Projection Domain for Low-Dose CT Imaging  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2212.03630)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/OSDM)
+
+  * Correlated and Multi-frequency Diffusion Modeling for Highly Under-sampled MRI Reconstruction  
+[<font size=5>**[Paper]**</font>](https://github.com/yqx7150/CM-DM)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/CM-DM)
+
   * Generative Modeling in Structural-Hankel Domain for Color Image Inpainting  
 [<font size=5>**[Paper]**</font>](http://arxiv.org/abs/2211.13857)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SHGM)     
