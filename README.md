@@ -38,7 +38,7 @@ Diffusion Models for Medical Imaging
 [<font size=5>**[Paper]**</font>](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.5011)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DD-UGM) 
 
 * Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction      
-[<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/2211/2211.13926.pdf)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GMSD)
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10233041)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GMSD)
 
 * Multi-phase FZA lensless imaging via diffusion model      
 [<font size=5>**[Paper]**</font>](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-12-20595&id=531211)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MLDM)  
