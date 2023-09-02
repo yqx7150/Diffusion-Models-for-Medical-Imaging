@@ -56,7 +56,7 @@ Diffusion Models for Medical Imaging
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2212.03630)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/OSDM)
 
   * Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-view CT Reconstruction  
-[<font size=5>**[Paper]**</font>](https://github.com/yqx7150/SWORD)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SWORD)
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2308.15942)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SWORD)
 
   * Correlated and Multi-frequency Diffusion Modeling for Highly Under-sampled MRI Reconstruction  
 [<font size=5>**[Paper]**</font>](https://github.com/yqx7150/CM-DM)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/CM-DM)
