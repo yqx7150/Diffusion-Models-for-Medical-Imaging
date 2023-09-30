@@ -65,4 +65,4 @@ Diffusion Models for Medical Imaging
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2309.00853)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/CM-DM)
 
   * Generative Modeling in Structural-Hankel Domain for Color Image Inpainting  
-[<font size=5>**[Paper]**</font>](http://arxiv.org/abs/2211.13857)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SHGM)     
+[<font size=5>**[Paper]**</font>](http://arxiv.org/abs/2211.13857)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SHGM)    [<font size=5>**[CIIS 2023-PPT]**</font>](https://github.com/yqx7150/SHGM/tree/main)          
