@@ -40,6 +40,9 @@ Diffusion Models for Medical Imaging
 * Universal Generative Modeling in Dual-domain for Dynamic MR Imaging  
 [<font size=5>**[Paper]**</font>](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.5011)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DD-UGM) 
 
+* Physics-Informed DeepMRI: Bridging the Gap from Heat Diffusion to k-Space Interpolation  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2308.15918)     
+   
 * Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction      
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10233041)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GMSD)
 
