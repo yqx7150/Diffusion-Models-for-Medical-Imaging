@@ -19,6 +19,9 @@ Diffusion Models for Medical Imaging
   * Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/9703672)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EASEL)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HGGDP/tree/master/Slide)
 
+  * Wavelet-improved Score-based Generative Model for Medical Imaging  
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10288274)         
+
   * 基于分数匹配生成模型的无透镜成像方法      
 [<font size=5>**[Paper]**</font>](https://www.opticsjournal.net/Articles/OJf1842c2819a4fa2e/FigureTable)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/LSGM)  [<font size=5>**[CIIS 2023-PPT]**</font>](https://github.com/yqx7150/SHGM/tree/main)
 
