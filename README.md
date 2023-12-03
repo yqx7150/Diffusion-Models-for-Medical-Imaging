@@ -16,16 +16,16 @@ Diffusion Models for Medical Imaging
  * REDAEP: Robust and Enhanced Denoising Autoencoding Prior for Sparse-View CT Reconstruction  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/9076295)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/REDAEP)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HGGDP/tree/master/Slide)  [<font size=5>**[数学图像联盟会议交流PPT]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
 
-* Accelerated model-based iterative reconstruction strategy for sparse-view photoacoustic tomography aided by multi-channel autoencoder priors  
-[<font size=5>**[Paper]**</font>](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202300281)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-MDAE)     
-
-  * Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model  
+* Accelerated model-based iterative reconstruction strategy for sparse-view photoacoustic tomography aided by multi-channel autoencoder priors       
+[<font size=5>**[Paper]**</font>](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202300281)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-MDAE)         
+           
+* Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/9703672)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EASEL)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HGGDP/tree/master/Slide)
 
-  * Wavelet-improved Score-based Generative Model for Medical Imaging  
+* Wavelet-improved Score-based Generative Model for Medical Imaging  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10288274)         
 
-  * 基于分数匹配生成模型的无透镜成像方法      
+* 基于分数匹配生成模型的无透镜成像方法      
 [<font size=5>**[Paper]**</font>](https://www.opticsjournal.net/Articles/OJf1842c2819a4fa2e/FigureTable)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/LSGM)  [<font size=5>**[CIIS 2023-PPT]**</font>](https://github.com/yqx7150/SHGM/tree/main)
 
 ## Learning from Image Domain to Projection Domain     
