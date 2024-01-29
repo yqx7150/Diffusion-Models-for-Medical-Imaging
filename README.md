@@ -28,6 +28,9 @@ Diffusion Models for Medical Imaging
 * 基于分数匹配生成模型的无透镜成像方法      
 [<font size=5>**[Paper]**</font>](https://www.opticsjournal.net/Articles/OJf1842c2819a4fa2e/FigureTable)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/LSGM)  [<font size=5>**[CIIS 2023-PPT]**</font>](https://github.com/yqx7150/SHGM/tree/main)
 
+* Imaging through scattering media via generative diffusion model      
+[<font size=5>**[Paper]**</font>](https://pubs.aip.org/aip/apl/article/124/5/051101/3176612/Imaging-through-scattering-media-via-generative)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/ISDM)
+       
 ## Learning from Image Domain to Projection Domain     
  <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-Image-Domain-to-K-space.png" width = "800" height = "500">  </div>
  
