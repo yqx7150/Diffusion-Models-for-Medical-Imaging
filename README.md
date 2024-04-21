@@ -89,4 +89,7 @@ Diffusion Models for Medical Imaging
 [<font size=5>**[Paper]**</font>](http://arxiv.org/abs/2211.13857)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SHGM)    [<font size=5>**[CIIS 2023-PPT]**</font>](https://github.com/yqx7150/SHGM/tree/main)
   
   * Knowledge-driven deep learning for fast MR imaging: Undersampled MR image reconstruction from supervised to un-supervised learning    
-[<font size=5>**[Paper]**</font>](https://onlinelibrary.wiley.com/doi/10.1002/mrm.30105)                  
+[<font size=5>**[Paper]**</font>](https://onlinelibrary.wiley.com/doi/10.1002/mrm.30105)
+
+  * Deep learning for fast MR imaging: a review for learning reconstruction from incomplete k-space data    
+ [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/abs/pii/S1746809421001762)              
