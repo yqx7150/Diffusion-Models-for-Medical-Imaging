@@ -77,7 +77,7 @@ Diffusion Models for Medical Imaging
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10158730)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HKGM)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)
 
   * One Sample Diffusion Model in Projection Domain for Low-Dose CT Imaging  
-[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2212.03630)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/OSDM)
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/10506793)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/OSDM)
 
   * Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-view CT Reconstruction  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/10403850)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SWORD)
