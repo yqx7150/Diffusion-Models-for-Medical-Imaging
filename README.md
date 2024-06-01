@@ -99,6 +99,9 @@ Diffusion Models for Medical Imaging
   * MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2405.05763)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDiff)    
 
+  * Partitioned Hankel-based Diffusion Models for Few-shot Low-dose CT Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2405.17167)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PHD)          
+      
   * Knowledge-driven deep learning for fast MR imaging: Undersampled MR image reconstruction from supervised to un-supervised learning    
 [<font size=5>**[Paper]**</font>](https://onlinelibrary.wiley.com/doi/10.1002/mrm.30105)
 
