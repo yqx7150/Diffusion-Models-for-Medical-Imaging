@@ -85,7 +85,7 @@ Diffusion Models for Medical Imaging
      
 
 ## Learning from One to Multiple Models 
- <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-one-to-multiple-models.png" width = "800" height = "600">  </div>
+ <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-one-to-multiple-models.png" width = "800" height = "500">  </div>
  
   * Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-view CT Reconstruction  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/10403850)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SWORD)
