@@ -94,7 +94,10 @@ Diffusion Models for Medical Imaging
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2309.00853)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/CM-DM)
 
   * DP-MDM: Detail-Preserving MR Reconstruction via Multiple Diffusion Models  
-[<font size=5>**[Paper]**</font>](http://arxiv.org/abs/2211.13857)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DP-MDM)   
+[<font size=5>**[Paper]**</font>](http://arxiv.org/abs/2211.13857)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DP-MDM)
+   
+  * Diffusion Model based on Generalized Map for Accelerated MRI  
+[<font size=5>**[Paper]**</font>](https://doi.org/10.1002/nbm.5232)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GM-SDE)   
   
   * MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2405.05763)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDiff)    
