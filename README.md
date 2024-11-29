@@ -90,12 +90,6 @@ Diffusion Models for Medical Imaging
   * Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-view CT Reconstruction  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/10403850)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SWORD)
 
-  * Correlated and Multi-frequency Diffusion Modeling for Highly Under-sampled MRI Reconstruction  
-[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2309.00853)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/CM-DM)
-
-  * DP-MDM: Detail-Preserving MR Reconstruction via Multiple Diffusion Models  
-[<font size=5>**[Paper]**</font>](http://arxiv.org/abs/2211.13857)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DP-MDM)
-   
   * Diffusion Model based on Generalized Map for Accelerated MRI  
 [<font size=5>**[Paper]**</font>](https://doi.org/10.1002/nbm.5232)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GM-SDE)   
   
@@ -104,6 +98,19 @@ Diffusion Models for Medical Imaging
 
   * Partitioned Hankel-based Diffusion Models for Few-shot Low-dose CT Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2405.17167)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PHD)          
+
+## Learning from Regular to Irregular Samples 
+ <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-one-to-multiple-models.png" width = "800" height = "500">  </div>
+
+  * Correlated and Multi-frequency Diffusion Modeling for Highly Under-sampled MRI Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2309.00853)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/CM-DM)
+
+  * DP-MDM: Detail-Preserving MR Reconstruction via Multiple Diffusion Models  
+[<font size=5>**[Paper]**</font>](http://arxiv.org/abs/2211.13857)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DP-MDM)
+     
+  * MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2405.05763)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDiff)          
+
       
   * Knowledge-driven deep learning for fast MR imaging: Undersampled MR image reconstruction from supervised to un-supervised learning    
 [<font size=5>**[Paper]**</font>](https://onlinelibrary.wiley.com/doi/10.1002/mrm.30105)
