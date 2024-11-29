@@ -100,7 +100,7 @@ Diffusion Models for Medical Imaging
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2405.17167)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PHD)          
 
 ## Learning from Regular to Irregular Samples 
- <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-Regular-to-Irregular-Samples.png" width = "1200" height = "600">  </div>
+ <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning from Regular to Irregular Samples.png" width = "1200" height = "600">  </div>
 
   * Correlated and Multi-frequency Diffusion Modeling for Highly Under-sampled MRI Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2309.00853)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/CM-DM)
