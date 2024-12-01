@@ -100,7 +100,10 @@ Diffusion Models for Medical Imaging
 [<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2405.05763)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDiff)    
 
   * Partitioned Hankel-based Diffusion Models for Few-shot Low-dose CT Reconstruction  
-[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2405.17167)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PHD)          
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2405.17167)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PHD)
+    
+ * Multiple diffusion models-enhanced extremely limited-view reconstruction strategy for photoacoustic tomography boosted by multi-scale priors  
+[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000636)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDM-PAT)          
 
 ## Learning from Regular to Irregular Samples 
  <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning from Regular to Irregular Samples.png" width = "1000" height = "600">  </div>
