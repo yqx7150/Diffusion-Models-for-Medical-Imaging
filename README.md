@@ -90,6 +90,9 @@ Diffusion Models for Medical Imaging
   * Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-view CT Reconstruction  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/10403850)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SWORD)
 
+  * Dual-Domain Collaborative Diffusion Sampling for Multi-Source Stationary Computed Tomography Reconstruction  
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10577271)   [<font size=5>**[Code]**</font>](https://github.com/lizrzr/DCDS-Dual-domain_Collaborative_Diffusion_Sampling)
+
   * Diffusion Model based on Generalized Map for Accelerated MRI  
 [<font size=5>**[Paper]**</font>](https://doi.org/10.1002/nbm.5232)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GM-SDE)   
   
