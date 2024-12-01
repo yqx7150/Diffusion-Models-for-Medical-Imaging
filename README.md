@@ -32,7 +32,7 @@ Diffusion Models for Medical Imaging
 [<font size=5>**[Paper]**</font>](https://pubs.aip.org/aip/apl/article/124/5/051101/3176612/Imaging-through-scattering-media-via-generative)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/ISDM)
        
 ## Learning from Image Domain to Projection Domain     
- <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-Image-Domain-to-K-space.png" width = "800" height = "500">  </div>
+ <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-Image-Domain-to-K-space2.png" width = "800" height = "500">  </div>
  
   * Homotopic Gradients of Generative Density Priors for MR Image Reconstruction  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/9435335)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HGGDP) [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/HGGDP/tree/master/Slide)
@@ -69,7 +69,7 @@ Diffusion Models for Medical Imaging
 
 
 ## Learning from Large to Small Dataset 
- <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-Large-to-Small-Dataset.png" width = "800" height = "500">  </div>
+ <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-Large-to-Small-Dataset2.png" width = "800" height = "500">  </div>
  
   * One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10158730)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HKGM)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)
@@ -83,7 +83,7 @@ Diffusion Models for Medical Imaging
      
 
 ## Learning from One to Multiple Models 
- <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-One-to-Multiple-Models_.png" width = "1000" height = "600">  </div>
+ <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-Single-to-Multiple-Models2.png" width = "800" height = "500">  </div>
  
   * Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-view CT Reconstruction  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/10403850)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SWORD)
@@ -104,7 +104,7 @@ Diffusion Models for Medical Imaging
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000636)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDM-PAT)          
 
 ## Learning from Regular to Irregular Samples 
- <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning from Regular to Irregular Samples.png" width = "1000" height = "600">  </div>
+ <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-Regular-to-Irregular-Samples2.png" width = "800" height = "500">  </div>
 
   * Correlated and Multi-frequency Diffusion Modeling for Highly Under-sampled MRI Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2309.00853)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/CM-DM)
