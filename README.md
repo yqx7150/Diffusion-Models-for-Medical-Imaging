@@ -67,8 +67,6 @@ Diffusion Models for Medical Imaging
 * High-resolution iterative reconstruction at extremely low sampling rate for Fourier single-pixel imaging via diffusion model      
 [<font size=5>**[Paper]**</font>](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-3-3138&id=545621)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/FSPI-DM)
 
-* Accelerated model-based iterative reconstruction strategy for sparse-view photoacoustic tomography aided by multi-channel autoencoder priors      
-[<font size=5>**[Paper]**</font>](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202300281)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-MDAE)
 
 ## Learning from Large to Small Dataset 
  <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-Large-to-Small-Dataset.png" width = "800" height = "500">  </div>
