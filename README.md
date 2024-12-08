@@ -1,5 +1,5 @@
 # Diffusion-Models-for-Medical-Imaging
-Diffusion Models for Medical Imaging
+Diffusion Models for Medical Imaging [<font size=5>**[数学图像联盟会议交流PPT]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide) 
 
 ## Learning from DAE to DSM
  <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-DAE-to-DSM2.png" width = "800" height = "500">  </div>
