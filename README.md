@@ -30,6 +30,9 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
 
 * Imaging through scattering media via generative diffusion model      
 [<font size=5>**[Paper]**</font>](https://pubs.aip.org/aip/apl/article/124/5/051101/3176612/Imaging-through-scattering-media-via-generative)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/ISDM)
+
+* Fluorescence molecular tomography via score-based generative model      
+[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S0143816625000508)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/FTSG)
        
 ## Learning from Image Domain to Projection Domain     
  <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-Image-Domain-to-K-space2.png" width = "800" height = "500">  </div>
