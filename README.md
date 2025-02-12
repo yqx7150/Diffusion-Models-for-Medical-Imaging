@@ -78,8 +78,11 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10158730)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HKGM)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)
 
   * One Sample Diffusion Model in Projection Domain for Low-Dose CT Imaging  
-[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/10506793)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/OSDM)
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/10506793)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/OSDM)    
 
+  * Low-rank Angular Prior Guided Multi-diffusion Model for Few-shot Low-dose CT Reconstruction     
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2405.17167)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PHD)
+    
   * Generative Modeling in Structural-Hankel Domain for Color Image Inpainting  
 [<font size=5>**[Paper]**</font>](http://arxiv.org/abs/2211.13857)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SHGM)    [<font size=5>**[CIIS 2023-PPT]**</font>](https://github.com/yqx7150/SHGM/tree/main)
   
@@ -99,10 +102,7 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
   
   * MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2405.05763)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDiff)    
-
-  * Low-rank Angular Prior Guided Multi-diffusion Model for Few-shot Low-dose CT Reconstruction     
-[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2405.17167)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PHD)
-    
+  
  * Multiple diffusion models-enhanced extremely limited-view reconstruction strategy for photoacoustic tomography boosted by multi-scale priors  
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000636)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDM-PAT)          
 
