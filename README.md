@@ -53,8 +53,11 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
 [<font size=5>**[Paper]**</font>](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.5011)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DD-UGM) 
 
 * Physics-Informed DeepMRI: k-Space Interpolation Meets Heat Diffusion         
-[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10683732)     
-   
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10683732)      
+           
+* Sub-DM: Subspace Diffusion Model with Orthogonal Decomposition for MRI Reconstruction                              
+[<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2411.03758)                   
+              
 * Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction      
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10233041)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GMSD)
 
