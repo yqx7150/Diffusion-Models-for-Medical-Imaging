@@ -119,7 +119,7 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
 [<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2405.05763)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDiff)
         
   * Diffusion Transformer Meets Random Masks: An Advanced PET Reconstruction Framework  
-[<font size=5>**[Code]**</font>](https://github.com/yqx7150/DREAM)
+[<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2503.08339)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DREAM)
 
   * Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2501.09935)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SWARM) 
