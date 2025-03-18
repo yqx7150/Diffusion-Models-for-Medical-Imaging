@@ -1,6 +1,13 @@
 # Diffusion-Models-for-Medical-Imaging
 Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in projection data (PPT)]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide) 
+           
+  * Diffusion Transformer Meets Random Masks: An Advanced PET Reconstruction Framework  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2503.08339)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DREAM)
 
+  * Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2501.09935)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SWARM) 
+
+      
 ## Learning from DAE to DSM
  <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-DAE-to-DSM2.png" width = "800" height = "500">  </div>
 
@@ -120,13 +127,7 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
      
   * MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2405.05763)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDiff)
-        
-  * Diffusion Transformer Meets Random Masks: An Advanced PET Reconstruction Framework  
-[<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2503.08339)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DREAM)
-
-  * Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion  
-[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2501.09935)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SWARM) 
-      
+  
   * Knowledge-driven deep learning for fast MR imaging: Undersampled MR image reconstruction from supervised to un-supervised learning    
 [<font size=5>**[Paper]**</font>](https://onlinelibrary.wiley.com/doi/10.1002/mrm.30105)
 
