@@ -76,9 +76,12 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
 * Generative model for sparse photoacoustic tomography artifact removal      
 [<font size=5>**[Paper]**</font>](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12745/1274503/Generative-model-for-sparse-photoacoustic-tomography-artifact-removal/10.1117/12.2683128.short?SSO=1)         
 
+* RED: Residual Estimation Diffusion for Low-Dose PET Sinogram Reconstruction     
+[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S1361841525001057)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/RED)
+
 * Sparse-view reconstruction for photoacoustic tomography combining diffusion model with model-based iteration      
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597923001118)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-Diffusion)
-       
+              
 * High-resolution iterative reconstruction at extremely low sampling rate for Fourier single-pixel imaging via diffusion model      
 [<font size=5>**[Paper]**</font>](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-3-3138&id=545621)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/FSPI-DM)
 
