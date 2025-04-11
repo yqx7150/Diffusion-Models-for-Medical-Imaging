@@ -8,7 +8,7 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
  [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/abs/pii/S1746809421001762)              
 
 * 基于扩散模型的医学成像研究综述   
- [<font size=5>**[Paper]**</font>](https://www.cttacn.org.cn/article/doi/10.15953/j.ctta.2024.316)                
+ [<font size=5>**[Paper]**</font>](https://www.cttacn.org.cn/article/doi/10.15953/j.ctta.2024.316)  [<font size=5>**[CT讲堂-扩散模型的理论及应用 (PPT)]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)              
       
 ## Learning from DAE to DSM
  <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-DAE-to-DSM2.png" width = "800" height = "500">  </div>
