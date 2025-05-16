@@ -116,8 +116,11 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
 [<font size=5>**[Paper]**</font>](https://doi.org/10.1002/nbm.5232)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GM-SDE)   
   
   * MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction  
-[<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2405.05763)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDiff)    
-  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2405.05763)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDiff)
+
+  * Ordered-subsets Multi-diffusion Model for Sparse-view CT Reconstruction
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2505.09985)
+
  * Multiple diffusion models-enhanced extremely limited-view reconstruction strategy for photoacoustic tomography boosted by multi-scale priors  
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000636)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDM-PAT)          
 
