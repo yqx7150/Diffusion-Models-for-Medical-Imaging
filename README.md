@@ -128,7 +128,7 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2309.00853)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/CM-DM)
 
   * DP-MDM: Detail-Preserving MR Reconstruction via Multiple Diffusion Models  
-[<font size=5>**[Paper]**</font>](http://arxiv.org/abs/2211.13857)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DP-MDM)
+[<font size=5>**[Paper]**</font>](https://iopscience.iop.org/article/10.1088/1361-6560/add83a/meta)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DP-MDM)
      
   * MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2405.05763)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDiff)
