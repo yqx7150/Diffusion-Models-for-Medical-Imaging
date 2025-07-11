@@ -142,4 +142,5 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
   * Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2501.09935)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SWARM) 
 
-  
+   * Adaptive Mask-guided K-space Diffusion for Accelerated MRI Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2506.18270)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/AMDM) 
