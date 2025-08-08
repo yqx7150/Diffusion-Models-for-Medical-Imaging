@@ -144,3 +144,12 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
 
    * Adaptive Mask-guided K-space Diffusion for Accelerated MRI Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2506.18270)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/AMDM) 
+
+## Learning from Diffusion Model to Foundation Model 
+![](https://github.com/yqx7150/Raw_data_generation-/blob/main/images/high_resolution3.png)
+
+  * Raw_data_generation  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Raw_data_generation)
+
+  * PRO: Projection Domain Synthesis for CT Imaging  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2506.13443)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PRO)   
+     
