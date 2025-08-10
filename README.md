@@ -153,3 +153,16 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
   * PRO: Projection Domain Synthesis for CT Imaging  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2506.13443)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PRO)   
      
+## Other Related Projects
+    
+  * Diffusion Models for Computational Optical Imaging  
+[<font size=5>**[Code]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Computational-Optical-Imaging)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Computational-Optical-Imaging/tree/main/CITA2024.pptx)
+
+  * Diffusion Models for Photoacoustic Imaging
+ [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Photoacoustic-Imaging)
+
+
+
+
+
+
