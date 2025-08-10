@@ -155,8 +155,7 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
      
 ## Other Related Projects
     
-  * Diffusion Models for Computational Optical Imaging  
-[<font size=5>**[Code]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Computational-Optical-Imaging)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Computational-Optical-Imaging/tree/main/CITA2024.pptx)
+  * Diffusion Models for Computational Optical Imaging  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Computational-Optical-Imaging)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Computational-Optical-Imaging/tree/main/CITA2024.pptx)
 
   * Diffusion Models for Photoacoustic Imaging
  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Photoacoustic-Imaging)
