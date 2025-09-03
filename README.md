@@ -66,7 +66,10 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
            
 * Sub-DM: Subspace Diffusion Model with Orthogonal Decomposition for MRI Reconstruction                              
 [<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2411.03758)                   
-              
+
+* Latent-k-space of refinement diffusion model for accelerated MRI reconstruction                              
+[<font size=5>**[Paper]**</font>](https://iopscience.iop.org/article/10.1088/2057-1976/adf3b4)                   
+                            
 * Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction      
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10233041)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GMSD)
 
@@ -142,8 +145,11 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
   * Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2501.09935)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SWARM) 
 
-   * Adaptive Mask-guided K-space Diffusion for Accelerated MRI Reconstruction  
+  * Adaptive Mask-guided K-space Diffusion for Accelerated MRI Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2506.18270)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/AMDM) 
+
+  * Distribution matching with subset-k-space embedding for multi-contrast MRI reconstruction  
+[<font size=5>**[Paper]**</font>](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.18056)        
 
 ## Learning from Diffusion Model to Foundation Model 
 ![](https://github.com/yqx7150/Raw_data_generation-/blob/main/images/high_resolution3.png)
