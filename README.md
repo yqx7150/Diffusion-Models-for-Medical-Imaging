@@ -170,7 +170,7 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
 
   * Diffusion Models for Photoacoustic Imaging  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Photoacoustic-Imaging)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Photoacoustic-Imaging/blob/main/SXL-NCU0629.pdf)
 
-  * Diffusion Models for Photoacoustic Imaging  [<font size=5>**[Code]**</font>](http://117.72.204.92:8000)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Photoacoustic-Imaging/blob/main/SXL-NCU0629.pdf)
+  * 算法处理示例  [<font size=5>**[Code]**</font>](http://117.72.204.92:8000)      
 
 
 
