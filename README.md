@@ -159,6 +159,8 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
   * PRO: Projection Domain Synthesis for CT Imaging  [<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2506.13443)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PRO)
        
   * UniSino: Physics-Driven Foundational Model for Universal CT Sinogram Standardization[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2508.17816)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/UniSino)
+        
+  * ALL-PET: A Low-resource and Low-shot PET Foundation Model in Projection Domain  [<font size=5>**[Paper]**</font>](https://github.com/yqx7150/RAYSOLUTION_PETdata/blob/main/Paper/ALL_PET_Finalx.pdf)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/ALL-PET)   
     
   * Double-Constraint Diffusion Model with Nuclear Regularization for Ultra-low-dose PET Reconstruction [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2509.00395)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DCDM)   
      
