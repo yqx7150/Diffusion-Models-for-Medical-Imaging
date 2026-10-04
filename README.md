@@ -11,7 +11,13 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
  [<font size=5>**[Paper]**</font>](https://www.cttacn.org.cn/article/doi/10.15953/j.ctta.2024.316)  [<font size=5>**[CT讲堂-扩散模型的理论及应用 (PPT)]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
 
 * 观测域医学成像与生成-从多分布到多任务   
- [<font size=5>**[MICS交流报告 (PPT)]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/gy-MICS-PPT.pdf)          
+ [<font size=5>**[MICS交流报告 (PPT)]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/gy-MICS-PPT.pdf)
+
+ * 扩散模型在光声成像中的应用进展   
+ [<font size=5>**[Paper]**</font>](https://www.researching.cn/ArticlePdf/m00018/2026/55/6/20250540.pdf)  
+
+ * 基于生成式人工智能的计算光学成像进展   
+ [<font size=5>**[Paper]**</font>](https://www.opticsjournal.net/Articles/OJdddc3fbd0c644b96/FullText?alichlgref=https%3A%2F%2Fd.wanfangdata.com.cn%2Fperiodical%2Fgzxb202509005)  
       
 ## Learning from DAE to DSM
  <div align="center"><img src="https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging/blob/main/Learning-from-DAE-to-DSM2.png" width = "800" height = "500">  </div>
