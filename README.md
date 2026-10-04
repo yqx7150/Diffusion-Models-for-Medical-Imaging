@@ -76,6 +76,9 @@ Diffusion Models for Medical Imaging [<font size=5>**[Diffusion model in project
 * Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction      
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10233041)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GMSD)
 
+* Iterative Diffusion-Refined Neural Attenuation Fields for Multi-Source Stationary CT Reconstruction: NAF Meets Diffusion Model      
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/11581366)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Diff-NAF)
+
 * Multi-phase FZA lensless imaging via diffusion model      
 [<font size=5>**[Paper]**</font>](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-12-20595&id=531211)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MLDM)  [<font size=5>**[CIIS 2023-PPT]**</font>](https://github.com/yqx7150/SHGM/tree/main)       
 
